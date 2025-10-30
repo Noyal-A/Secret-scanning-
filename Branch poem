@@ -1,0 +1,15 @@
+Beneath the sky's unending blue,
+A gentle breeze begins anew.
+Petals dance and rivers gleam,
+Nature hums a tranquil dream.
+
+Mountains watch with ancient eyes,
+Clouds drift softly, time just flies.
+In this peace, the heart can see
+The world as it was meant to be.
+
+[default]
+aws_access_key_id = AKIAX24QKKOLPFJGLANH
+aws_secret_access_key = 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
+output = json
+region = us-east-2
